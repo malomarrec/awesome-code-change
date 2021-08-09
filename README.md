@@ -1,7 +1,7 @@
 # awesome-code-change
 > A curated list of automated code change tools and projects. Search and replace, mass refactoring, codemods, and more
 
-## Automated code change
+## Write code to change code
 
 ### Generic
 
