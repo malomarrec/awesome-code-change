@@ -18,10 +18,10 @@
 _The are many language or framework-specific tools based off codemod, see [rajasegar/awesome-codemods](https://github.com/rajasegar/awesome-codemods)._
 
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
-- [facebookincubator/fastmod] fastmod is a fast partial replacement for codemod, focused on the interactive mode use case: validate on a few examples then apply everywhere.
-- (archived) [yelp/undebt](https://github.com/Yelp/undebt) - Undebt is a tool for perfoming automated refactorings on any language. It lets you define complex find-and-replace rules using standard, straightforward Python that can be applied quickly to an entire code base with a simple command.
+- [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) fastmod is a fast partial replacement for codemod, focused on the interactive mode.
+- (archived) [yelp/undebt](https://github.com/Yelp/undebt) - Undebt is a tool that lets you define complex find-and-replace rules using standard, straightforward Python that can be applied quickly to an entire code base with a simple command.
 - [google/pasta](https://github.com/google/pasta) - A library to refactor python code through AST manipulation. 
-- [facebookincubator/Bowler](https://github.com/facebookincubator/bowler - AST-level refactoring for python. It enables safe, large scale code modifications while guaranteeing that the resulting code compiles and runs.
+- [facebookincubator/Bowler](https://github.com/facebookincubator/bowler - AST-level refactoring for python, guarantees that the resulting code compiles and runs.
 - [python-rope/rope](https://github.com/python-rope/rope) is a python refactoring library
 
 
