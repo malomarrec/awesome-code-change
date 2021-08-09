@@ -28,7 +28,7 @@ _The are many language or framework-specific tools based off codemod, see [rajas
 
 ### IDEs
 
-- [IntelliJ](https://www.jetbrains.com/help/idea/refactoring-source-code.html) - has a lot of helpful refactoring functinalities
+- [IntelliJ](https://www.jetbrains.com/help/idea/refactoring-source-code.html) - has a lot of helpful refactoring functionalities
 
 
 
