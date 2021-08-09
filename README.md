@@ -35,5 +35,6 @@ _The are many language or framework-specific tools based off codemod, see [rajas
 ## Apply changes across many repositories
 
 - [Sourcegraph Batch Changes](https://docs.sourcegraph.com/batch_changes) - apply and track code changes across many repositories and code hosts
-- [Skyscanner/turbolift](https://github.com/Skyscanner/turbolift) - a simple tool to help apply changes across many GitHub repositories simultaneously
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - a command-line tool (CLI) for making updates across multiple Github repositories with a single command
+- [Skyscanner/turbolift](https://github.com/Skyscanner/turbolift) - a simple tool to help apply changes across many GitHub repositories simultaneously
+- [gabor-boros/hammurabi](https://github.com/gabor-boros/hammurabi) - an extensible CLI tool responsible for enforcing user-defined rules on code
