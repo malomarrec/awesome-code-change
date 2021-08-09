@@ -11,8 +11,6 @@ _The are many language or framework-specific tools based off codemod, see [rajas
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) a fast partial replacement for codemod, focused on the interactive mode.
 - [yelp/undebt](https://github.com/Yelp/undebt) (archived) - a tool that lets you define complex find-and-replace rules using standard, straightforward Python that can be applied quickly to an entire code base with a simple command.
 
-### python
-
 ### rust
 
 - [google/rerast](https://github.com/google/rerast) - a search/replace tool for Rust code using rules.
@@ -31,7 +29,7 @@ _The are many language or framework-specific tools based off codemod, see [rajas
 ### IDEs
 
 - [IntelliJ](https://www.jetbrains.com/help/idea/refactoring-source-code.html) - has a lot of helpful refactoring functionalities
-
+- [Eclipse](https://www.vogella.com/tutorials/EclipseJDT/article.html) - the Eclipse JDT provides AST manipulation tools
 
 
 ## Apply changes across many repositories
