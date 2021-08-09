@@ -6,10 +6,10 @@
 ### Generic
 
 - [comby](https://comby.dev/) -  a tool for searching and changing code structure. It's aware of syntax elements such as code blocks, strings and comments.
-- (archived) [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Regex syntax.
+- [facebookarchive/codemod](https://github.com/facebookarchive/codemod) (archived) - a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Regex syntax.
 _The are many language or framework-specific tools based off codemod, see [rajasegar/awesome-codemods](https://github.com/rajasegar/awesome-codemods)._
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) a fast partial replacement for codemod, focused on the interactive mode.
-- (archived) [yelp/undebt](https://github.com/Yelp/undebt) - a tool that lets you define complex find-and-replace rules using standard, straightforward Python that can be applied quickly to an entire code base with a simple command.
+- [yelp/undebt](https://github.com/Yelp/undebt) (archived) - a tool that lets you define complex find-and-replace rules using standard, straightforward Python that can be applied quickly to an entire code base with a simple command.
 
 ### python
 
