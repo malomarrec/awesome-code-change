@@ -11,9 +11,10 @@ _The are many language or framework-specific tools based off codemod, see [rajas
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) a fast partial replacement for codemod, focused on the interactive mode.
 - [yelp/undebt](https://github.com/Yelp/undebt) (archived) - a tool that lets you define complex find-and-replace rules using standard, straightforward Python that can be applied quickly to an entire code base with a simple command.
 
-### rust
+### golang
 
-- [google/rerast](https://github.com/google/rerast) - a search/replace tool for Rust code using rules.
+- [astutil](https://sourcegraph.com/github.com/golang/tools/-/docs/golang.org/x/tools/go/ast/astutil) - common utilities to work with golang's AST
+- [uber-go/gopatch](https://github.com/uber-go/gopatch#gopatch) - a tool to match and transform Go code. It is meant to aid in refactoring and restyling.
 
 ### js
 
@@ -25,6 +26,15 @@ _The are many language or framework-specific tools based off codemod, see [rajas
 - [facebookincubator/Bowler](https://github.com/facebookincubator/bowler) - AST-level refactoring for python, guarantees that the resulting code compiles and runs.
 - [python-rope/rope](https://github.com/python-rope/rope) - a python refactoring library
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - a concrete syntax-tree parser for python
+
+### rust
+
+- [google/rerast](https://github.com/google/rerast) - a search/replace tool for Rust code using rules.
+
+### Scala
+
+- [scalacenter/scalafix](https://github.com/scalacenter/scalafix) - a refactoring and linting tool for Scala
+
 
 ### IDEs
 
