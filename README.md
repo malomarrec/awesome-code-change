@@ -15,6 +15,7 @@ _The are many language or framework-specific tools based off codemod, see [rajas
 
 - [astutil](https://sourcegraph.com/github.com/golang/tools/-/docs/golang.org/x/tools/go/ast/astutil) - common utilities to work with golang's AST
 - [uber-go/gopatch](https://github.com/uber-go/gopatch#gopatch) - a tool to match and transform Go code. It is meant to aid in refactoring and restyling.
+- [rf](https://github.com/rsc/rf) - `experimental` refactoring tool for go
 
 ### js
 
