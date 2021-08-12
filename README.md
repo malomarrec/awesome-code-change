@@ -17,6 +17,9 @@ _The are many language or framework-specific tools based off codemod, see [rajas
 - [uber-go/gopatch](https://github.com/uber-go/gopatch#gopatch) - a tool to match and transform Go code. It is meant to aid in refactoring and restyling.
 - [rf](https://github.com/rsc/rf) - `experimental` refactoring tool for go
 
+### Java
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Semantic code search and transformation for Java.
+
 ### js
 
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - a JavaScript codemod toolkit.
